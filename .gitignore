@@ -31,8 +31,6 @@ build/
 
 ### VS Code ###
 .vscode/
-<<<<<<< HEAD
-=======
 
 # Compiled class files
 *.class
@@ -83,4 +81,3 @@ build/
 # Other files
 .DS_Store
 Thumbs.db
->>>>>>> faf193ac43b62505e84ab4f79d4e476239fc4d21
